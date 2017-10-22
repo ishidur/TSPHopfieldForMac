@@ -65,7 +65,6 @@ void run()
 
 int main(int argc, char* argv[])
 {
-    std::cout << "asdfasdfasdfasdf"<<std::endl;
     data.load();
     run();
     return 0;
